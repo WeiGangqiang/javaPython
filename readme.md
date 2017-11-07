@@ -21,4 +21,5 @@
 
 ###第五步
 
+下载jython-2.7.0.jar放倒工程的lib目录下，然后
 运行JythonTest即可
